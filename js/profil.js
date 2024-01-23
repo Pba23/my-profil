@@ -323,7 +323,7 @@ window.logOut = logOut
 
 async function logOut() {
   localStorage.clear();
-  window.location.href = "../graphql.html"
+  window.location.href = "../index.html"
 }
 Login()
 /**
